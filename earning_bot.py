@@ -4,7 +4,7 @@ from datetime import datetime
 from telegram import Update,InlineKeyboardButton,InlineKeyboardMarkup
 from telegram.ext import Application,CommandHandler,CallbackQueryHandler,MessageHandler,filters,ContextTypes
 
-BOT_TOKEN="YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN="8916888298:AAG8L6-NRmaxxkLOX-2aglX7rawzMh1Yx9A"
 ADMIN_ID=8078398755
 CHANNEL_USERNAME="@Tajbir345"
 CHANNEL_LINK="https://t.me/Tajbir345"
